@@ -13,11 +13,9 @@ public class Main {
 
 
     Person maikPerson = new Person("Maik", 34, "männlich");
-
+    Person tinaPerson = new Person("Tina", 35, "weiblich");
     maikPerson.vorstellen();
-
-
-
-
+    tinaPerson.vorstellen();
+    
         }
     }
