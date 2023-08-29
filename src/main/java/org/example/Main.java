@@ -12,5 +12,12 @@ public class Main {
     maiks2ndAuto.beschleunigen(10);
 
 
+    Person maikPerson = new Person("Maik", 34, "männlich");
+
+    maikPerson.vorstellen();
+
+
+
+
         }
     }
